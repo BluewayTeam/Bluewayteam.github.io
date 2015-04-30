@@ -1,0 +1,236 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	overflow-X:hidden;
+}
+/*==============================================================================topLogo*/
+.topLogo{
+	padding:20px 0 30px 0;
+}
+/*==============================================================================topLogo*/
+/*==============================================================================topNav*/
+.topNav{
+}
+.topNav ul{
+	list-style:none;
+	padding:0 ;
+	margin:0;
+}
+.topNav li{
+	float:left;
+	padding:0 40px 0 0;
+}
+.topNav li a{
+	color:#fff;
+	font-size:16px;
+}
+
+
+/*==============================================================================topNav*/
+.homeMv{
+	/*width:inherit;*/
+	overflow:hidden;
+	height:700px;
+	padding:0;
+	position:relative;
+}
+.homeMv .eachMv{
+	position:absolute;
+}
+.homeMv img{
+	width:50%;
+	float:right;
+	padding:0 10% 0 0; 
+}
+.mvText{
+	color:#FFFFFF;
+	/*padding:50px 0 0 5%;*/
+	padding:50px 0 0 0;
+	/*top:50px;
+	left:120px;*/
+	float:left;
+}
+.homeMv h1{
+	color:#FFFFFF;
+}
+.mvText{
+	font-size:1.3em;
+}
+.homeMv li{
+	color:#CCC;
+}
+.mvNav{
+	/*float:left;
+	padding:300px 0 0 0;*/
+	position:absolute;
+	top:250px;
+}
+.mvNav i{
+	padding:0 10px 30px 0;
+	color:#FFFFFF;
+}
+.fa-circle{
+	cursor:default;
+}
+.fa-circle-o{
+	cursor:pointer;
+}
+.circle-icon{
+	border:3px solid #2C54DE;
+	padding:20px;
+	border-radius:50%;
+}
+.circle-iconHover{
+	background:#3165DD;
+	width:70px;
+	height:70px;
+	border-radius:50%;
+	text-align:center;
+	line-height:9px;
+	vertical-align:middle;
+	padding:9px;
+}
+.jobVacancy{
+	border:#DEDEDE 1px solid;
+	border-radius:20px;
+	padding:20px;
+	margin:20px 0;
+	display:none;
+}
+.allVacancy h1{
+	cursor:pointer;
+	font-size:1.5em;
+}
+.vacancyHeader{
+	color:#2E40B1;
+}
+@media screen and (max-width:768px){
+	.homeMv{
+		padding:0 !important;
+		margin-left:20px;
+		height:600px;
+	}
+	.mvNav{
+		top:280px;
+	}
+	.mobileImg{
+		text-align:center;
+	}
+	.mobileImg img{
+		margin:auto;
+	}
+	.mobileTextColContainer1{
+		text-align:center !important;
+	}
+	.mobileTextCol1{
+		text-align:center !important;
+		margin:auto !important;
+		display:inline-block !important;
+	}
+	.mobileText1{
+		width:auto !important;
+		float:left !important;
+		margin:auto !important;
+		clear:both;
+	}
+	.mobileText1 a{
+		float:left !important;
+		margin-right:10px !important;
+	}
+	.mobileText1 .media-body{
+		width:auto !important;
+	}
+	.mobileText1 .h3{
+		float:left !important;
+	}
+	.gameAllImg img{
+		width:97% !important;
+	}
+}
+@media screen and (max-width:640px){
+	.homeMv{
+		padding:0 !important;
+		height:550px;
+		margin-left:20px;
+	}
+	.mvNav{
+		top:380px;
+	}
+	.mobileImg{
+		text-align:center;
+	}
+	.mobileImg img{
+		margin:auto;
+	}
+	.mobileTextColContainer1{
+		text-align:center !important;
+	}
+	.mobileTextCol1{
+		text-align:center !important;
+		margin:auto !important;
+		display:inline-block !important;
+	}
+	.mobileText1{
+		width:auto !important;
+		float:left !important;
+		margin:auto !important;
+		clear:both;
+	}
+	.mobileText1 a{
+		float:left !important;
+		margin-right:10px !important;
+	}
+	.mobileText1 .media-body{
+		width:auto !important;
+	}
+	.mobileText1 .h3{
+		float:left !important;
+	}
+	.gameAllImg img{
+		width:97% !important;
+	}
+}
+.media-body .media-heading , .media i{
+	margin:10px 0;
+}
+/*============================================================*/
+.lang{
+	position:absolute;
+	top:20px;
+	right:50px;
+}
+.lang .langBtn{
+	font-size:15px;
+	color:#FFF;
+	border-radius:50%;
+	border:#FFF 2px solid;
+	width:42px;
+	height:42px;
+	text-align:center;
+	display:block;
+	float:left;
+	line-height:40px;
+	margin-left:10px;
+	cursor:pointer;
+}
+.langBtnOver{
+	color:#4B96B1 !important;
+	border-radius:50%;
+	background:#FFF;
+	font-weight:bold;
+	cursor:default;
+}
+
+.lang img{
+	padding:0 5px;
+	cursor:pointer;
+}
+.gameAllImg{
+	width:inherit;
+	text-align:center;
+}
+.gameAllImg img{
+	width:47%;
+	float:left;
+	margin:10px;
+}

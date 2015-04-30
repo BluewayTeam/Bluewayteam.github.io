@@ -1,0 +1,28 @@
+{
+	"headline":{
+			"eng":"Solutions",
+			"trad":"業務",
+			"simp":"业务"
+	},
+	"icon0":{
+			"eng":"<h3>Mobile Apps</h3><p>Android, iOS, Windows phone Apps<br>Professional & quality design<br>Quick delivery to market<br>Your Apps, Your brands</p>",
+			"trad":"<h3>手機應用程式研發</h3><p>Android, iOS, Window手機應用程式研發<br>高品質專業設計<br>迅速推出市場<br>品牌與科技完美結合</p>",
+			"simp":"<h3>手机应用程序研发</h3><p>Android, iOS, Window手機應用程式研發<br>高质量专业设计<br>迅速推出市场<br>品牌与科技完美结合</p>"
+	},
+	"icon1":{
+			"eng":"<h3>Web Solution</h3><p>Responsive, mobile friendly<br>Designed for your needs<br>Enterprise & corperate website<br>Highly scalable & adaptive</p>",
+			"trad":"<h3>網站設計</h3><p>便利手機版面<br>配合您的需要<br>企業網站<br>高度擴展性與適應性</p>",
+			"simp":"<h3>网站设计</h3><p>便利手机版面<br>配合您的需要<br>企业网站<br>高度扩展性与适应性</p>"
+	},
+	"icon2":{
+			"eng":"<h3>Games</h3><p>Mobile & Desktop Games<br>MMO, FPS, platform, video games<br>Realtime games with amazing fidilities<br>Android,iOS, Xbox, Wii</p>",
+			"trad":"<h3>遊戲開發</h3><p>手機及電腦遊戲<br>MMO, FPS,platform, video遊戲<br>高保真度實時遊戲研發<br>Android, iOS, Xbox, Wii遊戲</p>",
+			"simp":"<h3>游戏开发</h3><p>手机及计算机游戏<br>MMO, FPS, platform, video游戏<br>高保真度实时游戏研发<br>Android, iOS, Xbox, Wii游戏</p>"
+	},
+	"icon3":{
+			"eng":"<h3>Dedicated support</h3><p>Enterprise software development<br>Custom oriented<br>Cross-platform on Windows, Linux & Mac OSX<br>Comprehensive solution & services</p>",
+			"trad":"<h3>技術支援</h3><p>企業軟件研發<br>訂製個性化Windows，Linux和Mac OSX的跨平台應用程式<br>全面性解決方案和服務</p>",
+			"simp":"<h3>技术支持</h3><p>企业软件研发<br>订制个性化Windows，Linux和Mac OSX的跨平台应用程序<br>全面性解决方案和服务</p>"
+	}
+		
+}

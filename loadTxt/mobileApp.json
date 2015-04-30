@@ -1,0 +1,58 @@
+{
+	"headline":{
+			"eng":"Mobile Apps",
+			"trad":"手機應用程式",
+			"simp":"手机应用程序"
+	},
+	"icon0":{
+			"eng":"User Settings",
+			"trad":"用戶設置",
+			"simp":"用户设置"
+	},
+	"icon1":{
+			"eng":"Messages Inbox",
+			"trad":"收件箱",
+			"simp":"收件箱"
+	},
+	"icon2":{
+			"eng":"Friends List",
+			"trad":"好友列表",
+			"simp":"好友列表"
+	},
+	"icon3":{
+			"eng":"Live Chat Messages",
+			"trad":"在線聊天",
+			"simp":"在线聊天"
+	},
+	"icon4":{
+			"eng":"Calendar / Planner",
+			"trad":"日曆/計劃",
+			"simp":"日历/计划"
+	},
+	"icon5":{
+			"eng":"My Places",
+			"trad":"我的位置",
+			"simp":"我的位置"
+	},
+	"icon6":{
+			"eng":"Media Player™",
+			"trad":"媒體播放器™",
+			"simp":"媒体播放器™"
+	},
+	"icon7":{
+			"eng":"Intuitive Statistics",
+			"trad":"流覽量統計",
+			"simp":"浏览量统计"
+	},
+	"icon8":{
+			"eng":"Weather on-the-go ",
+			"trad":"天氣預告",
+			"simp":"天气预告"
+	},
+	"icon9":{
+			"eng":"And much more!",
+			"trad":"還有更多！",
+			"simp":"还有更多！"
+	}
+		
+}

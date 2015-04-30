@@ -1,0 +1,6 @@
+{
+	"nav":{
+		'eng':'<li><a href="#home">Home</a></li><li><a href="#solutions">Solutions</a></li><li><a href="#products">Mobile Apps</a></li><li><a href="#services">Games</a></li><li><a href="#contact">Contact</a></li><li><a href="#careers">Careers</a></li>','trad':'<li><a href="#home">主頁</a></li><li><a href="#solutions">業務</a></li><li><a href="#products">手機應用程式</a></li><li><a href="#services">遊戲</a></li><li><a href="#contact">聯絡我們</a></li>	<li><a href="#careers">Careers</a></li>',
+	'simp':'<li><a href="#home">主页</a></li><li><a href="#solutions">业务</a></li><li><a href="#products">手机应用程序</a></li><li><a href="#services">游戏</a></li><li><a href="#contact">联络我们</a></li>	<li><a href="#careers">Careers</a></li>'
+	}
+}

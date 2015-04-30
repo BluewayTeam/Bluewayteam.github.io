@@ -1,0 +1,23 @@
+{
+	"mv0":{
+			"eng":"<h1>Professional Web development</h1><ul><li>Responsive & mobile-friendly Website development</li><li>Experienced design team</li><li>Enterprise & Corperate website</li><li>Highly scalable & adaptive</li></ul>",
+			"trad":"<h1>專業網站設計</h1><ul><li>開發高敏度手機版網站</li><li>經驗豐富的設計團隊</li><li>企業網站</li><li>高度擴展性與適應性</li></ul>",
+			"simp":"<h1>专业网站设计</h1><ul><li>开发高敏度手机版网站</li><li>经验丰富的设计团队</li><li>企业网站</li><li>高度扩展性与适应性</li></ul>"
+	},
+	"mv1":{
+			"eng":"<h1>Mobile Apps Development</h1><ul><li>Customized Mobile Apps deelopment</li><li>Android, iOS and Windows Phone Apps</li><li>One-stop solutions & services</li><li>Extremely quick delivery to market</li></ul>",
+			"trad":"<h1>手機應用程式研發</h1><ul><li>個性化應用程式研製</li><li>Android, iOS 和 Windows手機應用程式研發</li><li>一站式解決方案與服務</li><li>迅速推廣到市場</li></ul>",
+			"simp":"<h1>手机应用程序研发</h1><ul><li>个性化应用程序研制</li><li>Android, iOS 和 Windows手机应用程序研发</li><li>一站式解决方案与服务</li><li>迅速推广到市场</li></ul>"
+	},
+	"mv2":{
+			"eng":"<h1>Game development</h1><ul><li>Mobile games development on Android & iOS</li><li>Desktop games on Windows & Mac OSX</li><li>MMO, platform, video games</li><li>Immersive and amazing experiences</li><li>Powered by Unity3D and Unreal game engines</li></ul>",
+			"trad":"<h1>遊戲開發</h1><ul><li>Android和iOS手機遊戲開發</li><li>Windows和Mac OSX電腦遊戲開發</li><li>MMO, platform, video等多類型遊戲</li><li>細緻華麗的畫面配置</li><li>基于Unity3D和Unreal game强大引擎</li></ul>",
+			"simp":"<h1>游戏开发</h1><ul><li>Android和iOS手机游戏开发</li><li>Windows和Mac OSX计算机游戏开发</li><li>MMO, platform, video等多类型游戏</li><li>细致华丽的画面配置</li><li>基于Unity3D和Unreal game强大引擎</li></ul>"
+	},
+	"mv3":{
+			"eng":"<h1>Software solutions & Services </h1><ul><li>Enterprise software development</li><li>Cross-platform applications on Windows, Linux & Mac OSX</li><li>Elegant & comprehensive solution with full support</li><li>Professional C++, Java, .Net, PHP, Python & Ruby development</li></ul>",
+			"trad":"<h1>軟件支援與服務</h1><ul><li>企業軟件開發</li><li>Windows，Linux和Mac OSX的跨平台應用程式</li><li>高效率全面技術支援</li><li>專業的C ++、Java、.NetPHP、Python和Ruby開發</li></ul>",
+			"simp":"<h1>软件支持与服务</h1><ul><li>企业软件开发</li><li>Windows，Linux和Mac OSX的跨平台应用程序</li><li>高效率全面技术支持</li><li>专业的C ++、Java、.NetPHP、Python和Ruby开发</li></ul>"
+	}
+		
+}

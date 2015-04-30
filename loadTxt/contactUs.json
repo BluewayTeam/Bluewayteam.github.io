@@ -1,0 +1,22 @@
+{
+	"headline":{
+			"eng":"Contact",
+			"trad":"聯絡我們",
+			"simp":"联络我们"
+	},
+	"icon0":{
+			"eng":"21/F, Pilkem Commercial Centre, 8 Pilkem Street, Jordan, Kowloon",
+			"trad":"九龍佐敦庇利金街百利金商業中心21樓",
+			"simp":"九龙佐敦庇利金街百利金商业中心21楼"
+	},
+	"icon1":{
+			"eng":"<a href='mailto:hr@bluewaytech.com'>hr@bluewaytech.com</a>",
+			"trad":"<a href='mailto:hr@bluewaytech.com'>hr@bluewaytech.com</a>",
+			"simp":"<a href='mailto:hr@bluewaytech.com'>hr@bluewaytech.com</a>"
+	},
+	"icon2":{
+			"eng":"(852) 3583 2888",
+			"trad":"(852) 3583 2888",
+			"simp":"(852) 3583 2888"
+	}
+}
